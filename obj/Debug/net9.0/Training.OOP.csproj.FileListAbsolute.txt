@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\שולחן העבודה\Training.OOP\obj\Debug\net9.0\Training.OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\שולחן העבודה\Training.OOP\obj\Debug\net9.0\Training.OOP.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\שולחן העבודה\Training.OOP\obj\Debug\net9.0\Training.OOP.AssemblyInfo.cs
+C:\Users\user\OneDrive\שולחן העבודה\Training.OOP\obj\Debug\net9.0\Training.OOP.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\שולחן העבודה\Training.OOP\obj\Debug\net9.0\Training.OOP.sourcelink.json
+C:\Users\user\OneDrive\שולחן העבודה\Training.OOP\bin\Debug\net9.0\Training.OOP.exe
+C:\Users\user\OneDrive\שולחן העבודה\Training.OOP\bin\Debug\net9.0\Training.OOP.deps.json
+C:\Users\user\OneDrive\שולחן העבודה\Training.OOP\bin\Debug\net9.0\Training.OOP.runtimeconfig.json
+C:\Users\user\OneDrive\שולחן העבודה\Training.OOP\bin\Debug\net9.0\Training.OOP.dll
+C:\Users\user\OneDrive\שולחן העבודה\Training.OOP\bin\Debug\net9.0\Training.OOP.pdb
+C:\Users\user\OneDrive\שולחן העבודה\Training.OOP\obj\Debug\net9.0\Training.OOP.dll
+C:\Users\user\OneDrive\שולחן העבודה\Training.OOP\obj\Debug\net9.0\refint\Training.OOP.dll
+C:\Users\user\OneDrive\שולחן העבודה\Training.OOP\obj\Debug\net9.0\Training.OOP.pdb
+C:\Users\user\OneDrive\שולחן העבודה\Training.OOP\obj\Debug\net9.0\Training.OOP.genruntimeconfig.cache
+C:\Users\user\OneDrive\שולחן העבודה\Training.OOP\obj\Debug\net9.0\ref\Training.OOP.dll
