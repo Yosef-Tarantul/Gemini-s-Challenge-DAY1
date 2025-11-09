@@ -17,12 +17,16 @@ public class Book
     private static int _bookCount = 0;                                      // A private static number to keep track on the amount of books in the library.
 
 
-// The builder.
+// The Constructor.
     public Book(string Title, string Author, string Isbn, Genre Genre, ShelfLocation Location) 
     {
         this.title = Title;
         this.author = Author;
         this.isbn = Isbn;
+        if(string.IsNullOrEmpty(Isbn)) 
+        {
+            throw new ArgumentNullException(nameof(isbn));
+        }
         this.genre = Genre;
         this.location = Location;
         _bookCount++;

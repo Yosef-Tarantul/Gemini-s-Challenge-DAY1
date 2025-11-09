@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\OneDrive\\שולחן העבודה\\Training.OOP\\Training.OOP.csproj": {}
+    "C:\\Users\\user\\Projects\\Training.OOP\\Training.OOP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\OneDrive\\שולחן העבודה\\Training.OOP\\Training.OOP.csproj": {
+    "C:\\Users\\user\\Projects\\Training.OOP\\Training.OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\שולחן העבודה\\Training.OOP\\Training.OOP.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Projects\\Training.OOP\\Training.OOP.csproj",
         "projectName": "Training.OOP",
-        "projectPath": "C:\\Users\\user\\OneDrive\\שולחן העבודה\\Training.OOP\\Training.OOP.csproj",
+        "projectPath": "C:\\Users\\user\\Projects\\Training.OOP\\Training.OOP.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\שולחן העבודה\\Training.OOP\\obj\\",
+        "outputPath": "C:\\Users\\user\\Projects\\Training.OOP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -15,6 +15,20 @@ namespace Training.OOP
             
             int total = Book.GetTotalBooks();
             Console.WriteLine($"Total books: {total}");
+
+
+            try
+            {
+                Book Rickey = new Book("Rickey", "Walt Disney", null , Genre.Biography, new ShelfLocation(1,3));
+            }
+            catch (ArgumentNullException ex)
+            {
+                Console.WriteLine($"Error creating book: {ex.Message}");
+            }
+            finally 
+            {
+                Console.WriteLine("Creating book succeded!");
+            }
         }
     }
 }
